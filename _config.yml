@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: "Strong's Blog"
+description: "人生只有走出来的美丽，没有等处来的辉煌！ Never too old to learn!"
+logo: miaoyq-min.jpeg # 120x120 px default image used for Twitter summary card
+teaser: blog.jpeg # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
 feed:
@@ -26,8 +26,8 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Yanqiang Miao
+  email: miao.yanqiang@zte.com.cn
   twitter:
   google:
     ad-client:
