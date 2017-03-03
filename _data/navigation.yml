@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
+- title: /
   url:
+  excerpt:
+  image:
+
+- title: Docker
+  url: /docker/
+  excerpt: 
+  image:
+
+- title: Linux
+  url: /linux/
+  excerpt:
+  image:
+
+- title: Other
+  url: /other/
   excerpt:
   image:
