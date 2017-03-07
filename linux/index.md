@@ -5,7 +5,7 @@ excerpt: "Intresting things in the linux world"
 ---
 
 <div class="tiles">
-{% for post in site.posts %}
+{% for post in site.categories.linux %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
