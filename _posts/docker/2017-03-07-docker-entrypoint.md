@@ -1,8 +1,9 @@
 ---
 layout: article
-title:  "Dockerfile中Entrypoint指令使用方法分析"
-date:   2017-03-07 14:40:43
+title: "Dockerfile中Entrypoint指令使用方法分析"
+date: 2017-03-07 14:40:43
 categories: docker
+toc: true
 ---
 
 # Dockerfile中Entrypoint指令使用方法分析
